@@ -3,11 +3,14 @@ Device to add functionality to the Reface series of synths.
 
 Arpeggiator
     https://brendanclarke.com/2014/04/23/arduino-based-midi-sequencer/
+
 Patch saving and loading
     //naming patches and storing in rom
+
 Additional lfos to control midi stuff
     //different waveforms for lfo
     //customizable which midi messages get sent with lfo (pitch bend, cc messages)
+    
 Full size MIDI connectors
     MIDI in
     MIDI out
