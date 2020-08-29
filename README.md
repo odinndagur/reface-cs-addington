@@ -28,6 +28,8 @@ Pitch bend thing in the beginning of notes
         The effect can clearly be heard on Eddie Jobson's CS80 during the UK song "Alaska". The first high chords have the bend switch turned on.
         This would be an amazing addition to the CS, if possible.
 
+Tap tempo for reface's looper as well as the arp and the rest
+
 
 
 
